@@ -42,7 +42,7 @@ See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know 
 
 ```js
 term_.prefs_.set('font-family', '"Source Code Pro", monospace');
-term_.prefs_.set('user-css', 'https://cdn.jsdelivr.net/gh/wernight/powerline-web-fonts@ba4426cb0c0b05eb6cb342c7719776a41e1f2114/PowerlineFonts.css');
+term_.prefs_.set('user-css', 'https://cdn.jsdelivr.net/gh/ihsgnef/powerline-web-fonts@latest/PowerlineFonts.css');
 ```
 
 If you have [Crouton](https://github.com/dnschneid/crouton) installed on a developer mode Chromebook,
