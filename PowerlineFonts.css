@@ -101,3 +101,9 @@
     font-weight: normal;
     font-style: italic;
 }
+
+@font-face {
+    font-family: "Input Mono";
+    src: local("Input Mono"),
+         url(fonts/InputMono.woff2) format("woff2");
+}
